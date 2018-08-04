@@ -1,0 +1,63 @@
+<i class="material-icons">
+developer_board
+</i>
+
+<i class="material-icons">
+developer_mode
+</i>
+
+<i class="material-icons">
+hdr_strong
+</i>
+
+<i class="material-icons">
+flip_to_front
+</i>
+
+<i class="material-icons">
+import_contacts
+</i>
+
+<i class="material-icons">
+gradient
+</i>
+
+<i class="material-icons">
+nfc
+</i>
+
+<i class="material-icons">
+devices
+</i>
+
+<i class="material-icons">
+view_quilt
+</i>
+
+<i class="material-icons">
+table_chart
+</i>
+
+<i class="material-icons">
+format_quote
+</i>
+
+<i class="material-icons">
+widgets
+</i>
+
+<i class="material-icons">
+settings
+</i>
+
+<i class="material-icons">
+filter_tilt_shift
+</i>
+
+<i class="material-icons">
+device_hub
+</i>
+
+<i class="material-icons big-icons">
+    category
+</i>
